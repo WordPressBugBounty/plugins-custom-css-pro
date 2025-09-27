@@ -1,8 +1,8 @@
 === Custom CSS Pro ===
 Tags: CSS, custom, custom css, simple
 Requires at least: 4.0
-Tested up to: 6.6
-Stable tag: 6.6
+Tested up to: 6.8
+Stable tag: 6.8
 Contributors: WaspThemes
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,6 +32,9 @@ Install Custom CSS Pro just as you would any other WP Plugin:
 
 
 == Changelog ==
+= 1.0.8 =
+* fixed a minor php bug.
+
 = 1.0.7 =
 * fixed a minor javascript bug.
 

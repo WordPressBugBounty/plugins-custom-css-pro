@@ -3,7 +3,7 @@
 Plugin Name: Custom CSS Pro
 Plugin URI: https://wordpress.org/plugins/custom-css-pro/
 Description: Add Custom CSS to your wordpress site in live preview as professional.
-Version: 1.0.7
+Version: 1.0.8
 Author: WaspThemes
 Author URI: https://yellowpencil.waspthemes.com
 License: GPLv2 or later
@@ -45,7 +45,7 @@ add_action( 'wp_ajax_ccp_save_data', 'ccp_save_data' );
 function ccp_blank_page_api() {
 
 
-    $hook = add_submenu_page(null, 'CCP', 'CCP', 'edit_theme_options', 'ccp-editor','ccp_blank_page');
+    $hook = add_submenu_page('', 'CCP', 'CCP', 'edit_theme_options', 'ccp-editor','ccp_blank_page');
 
 }
 

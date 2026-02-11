@@ -1,7 +1,7 @@
 === Custom CSS Pro ===
 Tags: CSS, custom, custom css, simple
 Requires at least: 4.0
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 6.8
 Contributors: WaspThemes
 License: GPLv2 or later
